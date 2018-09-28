@@ -1,2 +1,0 @@
-# TimerMsToTime
-Created with CodeSandbox
